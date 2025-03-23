@@ -59,6 +59,8 @@ python3 cmpe273receive-1.py
 Expected output (sample):
 
 Received 10000 messages so far.
+
+```
 ...
 ✅ All 1000000 messages received. Shutting down.
 ✅ Features
